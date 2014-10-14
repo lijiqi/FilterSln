@@ -1,4 +1,4 @@
-Windows
+FilterSln
 =======
 
-Do the develop under windows enviroment
+Do some Filter examples
